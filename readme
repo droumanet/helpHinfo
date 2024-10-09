@@ -1,0 +1,9 @@
+# helpInfo
+
+## Objectifs
+helInfo est un script pour les utilisateurs, permettant d'afficher des informations utiles sur le poste de travail
+
+## Usage
+Dans une invite de commande, taper ./helpInfo.sh
+
+

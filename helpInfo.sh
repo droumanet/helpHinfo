@@ -1,4 +1,5 @@
 #!/bin/bash
+# Auteur : David Roumanet et Claude3.5
 
 #### Linux Version
 echo "#### Linux Version"
