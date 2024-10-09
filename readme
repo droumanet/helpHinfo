@@ -6,4 +6,5 @@ helInfo est un script pour les utilisateurs, permettant d'afficher des informati
 ## Usage
 Dans une invite de commande, taper ./helpInfo.sh
 
-
+## Auteur
+D. Roumanet et Claude 3.5
