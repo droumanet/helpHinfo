@@ -1,4 +1,11 @@
-22:24:10 This is Sparta
-22:25:44 Le temps passe
-22:26:30 Yo comme ça roule bien
-22:28:00 Pil-Poil au bon moment !
+# helpInfo 1.0
+
+## objectif
+Ce script permet d'afficher les ressources disponibles sur la machine, 
+pour fournir les informations au support, en cas d'appel à l'assistance
+
+## utilisation
+./helpInfo.sh
+
+# Support
+0820 0700 0700
